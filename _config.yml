@@ -62,10 +62,10 @@ social-links:
     icon-class: fab fa-2x fa-facebook-f
 
   - name: twitter
-    url-pattern: twitter.com/__USERNAME__
+    url-pattern: twitter.com/Moe_508
 
   - name: linkedin
-    url-pattern: linkedin.com/in/__USERNAME__
+    url-pattern: linkedin.com/in/muhannad-alharbi-dev
 
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
@@ -86,7 +86,7 @@ social-links:
     url-pattern: pinterest.com/__USERNAME__
 
   - name: github-user
-    url-pattern: github.com/__USERNAME__
+    url-pattern: github.com/Muhannad508
     icon-class: fab fa-2x fa-github
 
   - name: gitlab-user
