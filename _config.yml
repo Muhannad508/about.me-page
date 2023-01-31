@@ -1,6 +1,6 @@
 # Theme
 # remote_theme: epidrome/cover-card@main
-remote_theme: Muhannad508/about.me-page@main
+remote_theme: muhannad508/about.me-page@main
 # Title and tag line
 title: 'Muhannad Alharbi'
 description: 'Software Engineer.'
